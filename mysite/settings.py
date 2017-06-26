@@ -26,7 +26,7 @@ SECRET_KEY = '$zp+ayedw6)_oiew-d3lxma#5d+((rl&=4c*mipzwa36f+qxzj'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-'<faalen>.pythonanywhere.com']
+'faalen.pythonanywhere.com']
 
 
 # Application definition
